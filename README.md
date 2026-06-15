@@ -30,7 +30,7 @@ The platform analyzes market trends, volatility, momentum, sentiment, and correl
 
 ## Live Demo
 
-https://snappy-wideeyed-projections--abhiavula9.replit.app
+https://abc7daf0-4ce5-4558-83ea-766c8eb3d0c7-00-3bsj4kkrah51l.janeway.replit.dev/
 
 ## Purpose
 
